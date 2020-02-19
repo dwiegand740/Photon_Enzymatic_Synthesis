@@ -1,6 +1,5 @@
 %% Decoding (From DNA to Ternary,MIDI note and play)
 %Howon Lee - Harvard Medical School, Church lab, howon251@gmail.com,
-%617-817-5122 12/22/2019
 clear all
 clc
 
